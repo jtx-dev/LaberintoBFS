@@ -1,0 +1,2 @@
+# LaberintoBFS
+Curso: Inteligencia Artificial
